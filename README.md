@@ -2,4 +2,5 @@
 An awesome pig game
 
 see it live!
-pigging.surge.sh
+
+http://pigging.surge.sh
